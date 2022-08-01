@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffcffef_ffffffff",
+    "visible_layers": "ffcffcf_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "displayMotherboard.kicad_prl",
+    "filename": "pixel-frame-adapter.kicad_prl",
     "version": 3
   },
   "project": {
