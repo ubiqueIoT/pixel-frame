@@ -10,8 +10,10 @@ Most of the components can be sourced from Adafruit:
 | 1.54" TFT LCD Display | https://www.adafruit.com/product/3787 |
 | M4 Express ItsyBitsy Board | https://www.adafruit.com/product/3800 |
 
-3D printed case:
+## 3D printed case:
+
 ![Displaycase](https://user-images.githubusercontent.com/8181497/190037655-75310545-ede9-4ef5-938c-e6fd7bc0507c.png)
 
-Custom PCB adapter:
+## Custom PCB adapter:
+
 ![pixel-frame-adapter](https://user-images.githubusercontent.com/8181497/190037054-2226a0f6-d712-4a79-b274-5969ee85917e.png)
