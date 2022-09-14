@@ -6,9 +6,11 @@ Most of the components can be sourced from Adafruit:
 
 | Item | Link |
 |------|------|
-| M2.5 Standoff Kit | https://www.adafruit.com/product/3299 |
-| 1.54" TFT LCD Display | https://www.adafruit.com/product/3787 |
-| M4 Express ItsyBitsy Board | https://www.adafruit.com/product/3800 |
+| M2.5 x 12mm M-F hex nylon standoff | https://www.aliexpress.com/item/2251832604652301.html?spm=a2g0o.order_list.0.0.65d3180220YNC3 |
+| Heat set insterts (M2.5 x 4.0 x 3.6) | https://www.aliexpress.com/item/3256801886329635.html?spm=a2g0o.order_list.0.0.65d3180220YNC3 |
+| M2.5 x 10mm nylon screw | https://www.aliexpress.com/item/3256802895548825.html?spm=a2g0o.order_detail.0.0.485df19cqwiPWp |
+| 1.54" TFT LCD display | https://www.adafruit.com/product/3787 |
+| M4 Express ItsyBitsy board | https://www.adafruit.com/product/3800 |
 | Case | 3D Printed (SLA) |
 | Adapter PCB | Custom |
 
