@@ -9,6 +9,8 @@ Most of the components can be sourced from Adafruit:
 | M2.5 Standoff Kit | https://www.adafruit.com/product/3299 |
 | 1.54" TFT LCD Display | https://www.adafruit.com/product/3787 |
 | M4 Express ItsyBitsy Board | https://www.adafruit.com/product/3800 |
+| Case | 3D Printed (SLA) |
+| Adapter PCB | Custom |
 
 ## 3D printed case:
 
