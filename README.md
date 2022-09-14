@@ -16,8 +16,8 @@ Most of the components can be sourced from Adafruit:
 
 ## 3D printed case:
 
-![Displaycase](https://user-images.githubusercontent.com/8181497/190037655-75310545-ede9-4ef5-938c-e6fd7bc0507c.png)
+<img src="https://user-images.githubusercontent.com/8181497/190037655-75310545-ede9-4ef5-938c-e6fd7bc0507c.png" width="100" height="100">
 
 ## Custom PCB adapter:
 
-![pixel-frame-adapter](https://user-images.githubusercontent.com/8181497/190037054-2226a0f6-d712-4a79-b274-5969ee85917e.png)
+<img src="https://user-images.githubusercontent.com/8181497/190037054-2226a0f6-d712-4a79-b274-5969ee85917e.png" width="100" height="100">
