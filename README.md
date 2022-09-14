@@ -14,10 +14,10 @@ Most of the components can be sourced from Adafruit:
 | Case | 3D Printed (SLA) |
 | Adapter PCB | Custom |
 
-## 3D printed case:
+## 3D Printed Case:
 
 <img src="https://user-images.githubusercontent.com/8181497/190037655-75310545-ede9-4ef5-938c-e6fd7bc0507c.png" width="500" height="500">
 
-## Custom PCB adapter:
+## Adapter PCB:
 
 <img src="https://user-images.githubusercontent.com/8181497/190037054-2226a0f6-d712-4a79-b274-5969ee85917e.png" width="500" height="500">
